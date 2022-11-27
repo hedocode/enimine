@@ -1,0 +1,7 @@
+{
+    "replace": false,      
+    "values": [
+        "ep:_tick",
+        "no_creeper_griefing:tick"
+    ]
+}
