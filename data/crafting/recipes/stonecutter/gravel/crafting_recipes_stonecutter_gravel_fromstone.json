@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:cobblestone"
+        "item": "minecraft:stone"
     },
-    "result": "minecraft:sand",
+    "result": "minecraft:gravel",
     "count": 1
 }

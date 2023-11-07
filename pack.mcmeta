@@ -1,12 +1,6 @@
 {
-    "language": {
-        "": {
-            "name": "",
-            "region": ""
-        }
-    },
     "pack": {
         "description": "Ohen datapack",
-        "pack_format": 10
+		"pack_format": 12
     }
 }
